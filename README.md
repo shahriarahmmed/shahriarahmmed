@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## 🌱 I’m currently learning Front End Technology like javascript, ReactJS, TailwindCSS
 <!--
 **shahriarahmmed/shahriarahmmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
