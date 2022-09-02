@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Shahriar. just a front end dev with highly enthuastic in full stack dev
+## I'm just a Front-End Devloper & enthuastic in MERN stack.
 #### 🌱 I’m currently learning Front End Technologies like javascript, ReactJS, TailwindCSS
 #### 📫 How to reach me: LinkedIn[www.linkedin.com/shahriar-ahmmed]
 <!--
