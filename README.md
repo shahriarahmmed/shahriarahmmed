@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm just a Front-End Devloper & enthuastic in MERN stack.
 #### 🌱 I’m currently learning Front End Technologies like javascript, ReactJS, TailwindCSS
-#### 📫 How to reach me: LinkedIn[www.linkedin.com/shahriar-ahmmed]
+#### 📫 How to reach me: LinkedIn[Shahriar Ahmmed](www.linkedin.com/shahriar-ahmmed)
 <!--
 **shahriarahmmed/shahriarahmmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
