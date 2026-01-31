@@ -139,7 +139,7 @@ const shahriarAhmmed = {
 
 I'm actively looking for **frontend engineering roles** where I can contribute to meaningful products and grow with a talented team.
 
-- 💼 **Portfolio:** [shahriar-ahmmed-portfolio.com]([[https://shahriar-ahmmed-portfolio.vercel.app/](https://shahriar-ahmmed-portfolio.vercel.app/))
+- 💼 **Portfolio:** [shahriar-ahmmed-portfolio.com](https://shahriar-ahmmed-portfolio.vercel.app/)
 - 📧 **Email:** your.email@example.com
 - 💬 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
